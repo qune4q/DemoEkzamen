@@ -7,3 +7,4 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 20 Б - 4
 30 Б - 5
 1. диаграмма
+![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/cb9960d7-d5fa-4890-85c2-d41c96bd0294)
