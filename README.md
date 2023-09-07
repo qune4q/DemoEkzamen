@@ -6,3 +6,4 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 10 БАЛЛОВ - 3
 20 Б - 4
 30 Б - 5
+1. диаграмма
