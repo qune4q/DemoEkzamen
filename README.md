@@ -15,3 +15,9 @@ https://github.com/Julia-Zhirnova/Demoekzamen/blob/main/9%20задание%20202
 3. Определить функциональные требования к системе.
 4. Разработать диаграмму вариантов использования системы.
 5. Разработать ER-диаграмму.
+<br>
+<br> 08.09.2023(дистант)
+<br>ФАЙЛЫ НА ФЛЕШКЕ
+![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/2561c94f-5a5d-43be-9e5a-2b9b2e191366)
+<br> Visual studio 2022 и SQL server management studio
+![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/03771238-2f9b-43d9-b8a5-4e3deddc10ac)
