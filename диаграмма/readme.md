@@ -7,3 +7,6 @@ https://drive.google.com/file/d/1ys4JDXB2ReauynVfMVOTmh7KnNOtv6d0/view
 <br> 3. Диаграмма выполнения упражнений на день
 ![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/2095d619-c51b-42df-870d-b91977867f61)
 https://drive.google.com/file/d/1lkECaPAIpTUQQSw7xkyulEMJKntTwye4/view
+<br> 4. ПРОЕКТИРОВАНИЕ ДИАГРАММЫ ПОСЛЕДОВАТЕЛЬНОСТИ UML 
+![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/bb4d0e93-7e8e-4f82-a14f-acff7e12eba4)
+https://drive.google.com/file/d/15jVRVykoN-l20OgFo__KeahcomO9-09g/view
