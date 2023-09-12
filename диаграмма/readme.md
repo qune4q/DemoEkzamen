@@ -12,3 +12,5 @@ https://drive.google.com/file/d/1lkECaPAIpTUQQSw7xkyulEMJKntTwye4/view
 https://drive.google.com/file/d/15jVRVykoN-l20OgFo__KeahcomO9-09g/view
 <br> VISIO
 ![Снимок экрана 2023-09-12 094417](https://github.com/qune4q/DemoEkzamen/assets/50214016/d6e6e14d-5e8e-40e6-b022-65ad031f43c8)
+![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/148c1f3c-deb3-43be-a873-05a31727ebf5)
+
