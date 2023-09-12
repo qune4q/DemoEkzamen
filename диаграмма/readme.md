@@ -15,4 +15,4 @@ https://drive.google.com/file/d/15jVRVykoN-l20OgFo__KeahcomO9-09g/view
 ![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/148c1f3c-deb3-43be-a873-05a31727ebf5)
 
 <br> .
-![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/20de4c2d-b4ec-44b2-a6c2-b3ec804c0770)
+![image](https://github.com/qune4q/DemoEkzamen/assets/50214016/c18dcdf1-2798-47af-8976-043e86a73042)
