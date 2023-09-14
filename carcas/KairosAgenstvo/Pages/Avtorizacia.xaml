@@ -1,0 +1,29 @@
+﻿<Page x:Class="KairosAgenstvo.Pages.Avtorizacia"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:KairosAgenstvo.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Avtorizacia">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="111"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center" Height="121" Margin="5,4,0,295" Grid.RowSpan="2">
+            <TextBlock HorizontalAlignment="Center">Авторизация</TextBlock>
+            <TextBlock HorizontalAlignment="Center">Логин</TextBlock>
+            <TextBox Name="login" Width="100"></TextBox>
+            <TextBlock HorizontalAlignment="Center">Пароль</TextBlock>
+            <TextBlock Name="password" Width="100" Visibility="Collapsed"></TextBlock>
+            <PasswordBox Name="passwordBox" Width="100" PasswordChar="*" ></PasswordBox>
+            <CheckBox Name="Check_Pass" Content="Показать пароль" VerticalAlignment="Center" Checked="Checked" Unchecked="Unchecked"></CheckBox>
+            <Button Width="100" Click="Click">Войти</Button>
+            <Button HorizontalAlignment="Right" Width="100" Click="Back">Назад</Button>
+        </StackPanel>
+    </Grid>
+</Page>

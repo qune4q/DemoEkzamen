@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Mi\source\repos\KairosAgenstvo\obj\Debug\
+D:\DemoEkzamen\carcas\KairosAgenstvo\obj\Debug\
 KairosAgenstvo
 none
 false
 DEBUG;TRACE
-C:\Users\Mi\source\repos\KairosAgenstvo\App.xaml
-31650884621
+D:\DemoEkzamen\carcas\KairosAgenstvo\App.xaml
+6-255568227
 
-9806653308
-14-1656046352
-AddEditPage.xaml;HotelsPage.xaml;MainWindow.xaml;
+12-361931023
+141183416626
+AddEditPage.xaml;Pages\Admin.xaml;HotelsPage.xaml;MainWindow.xaml;Pages\Avtorizacia.xaml;Pages\User.xaml;
 
 True
 

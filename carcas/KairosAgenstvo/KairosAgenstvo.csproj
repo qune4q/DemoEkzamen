@@ -56,7 +56,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Pages\Avtorizacia.xaml.cs">
+      <DependentUpon>Avtorizacia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\User.xaml.cs">
+      <DependentUpon>User.xaml</DependentUpon>
+    </Compile>
     <Page Include="AddEditPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Admin.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -71,6 +81,9 @@
     <Compile Include="AddEditPage.xaml.cs">
       <DependentUpon>AddEditPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Pages\Admin.xaml.cs">
+      <DependentUpon>Admin.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -82,9 +95,17 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="Pages\Avtorizacia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\User.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Manager.cs" />
+    <Compile Include="Classes\Manager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -111,7 +132,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\logo.png" />
+    <Resource Include="Resources\logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

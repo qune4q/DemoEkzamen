@@ -23,7 +23,7 @@ namespace KairosAgenstvo
         public MainWindow()
         {
             InitializeComponent();
-            MainFrame.Navigate(new HotelsPage());
+            MainFrame.Navigate(new Pages.Avtorizacia());
             Manager.MainFrame = MainFrame;
         }
     }
