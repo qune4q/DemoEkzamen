@@ -1,1 +1,8 @@
 ![photo_2023-12-28_17-03-53](https://github.com/qune4q/DemoEkzamen/assets/50214016/b16f8352-36ed-441e-8d5e-84c487cd34fa)
+![photo_2023-12-28_17-14-03](https://github.com/qune4q/DemoEkzamen/assets/50214016/45aaf91c-6f58-4516-81b6-52db02d114e3)
+![photo_2023-12-28_17-14-00](https://github.com/qune4q/DemoEkzamen/assets/50214016/e39bcf33-f98c-4f40-affe-16cea95c1842)
+![photo_2023-12-28_17-13-58](https://github.com/qune4q/DemoEkzamen/assets/50214016/94a10d3a-1d57-4f3b-9046-fd174a503ef4)
+![photo_2023-12-28_17-14-05](https://github.com/qune4q/DemoEkzamen/assets/50214016/b6e09b59-7f7e-400f-ad88-358918ba2927)
+![photo_2023-12-28_17-19-50](https://github.com/qune4q/DemoEkzamen/assets/50214016/87fa3ee6-c384-4017-9317-3a312dcff83d)
+![photo_2023-12-28_17-19-48](https://github.com/qune4q/DemoEkzamen/assets/50214016/af217cff-b7c5-46b1-aed3-16906840e8d1)
+![photo_2023-12-28_17-19-53](https://github.com/qune4q/DemoEkzamen/assets/50214016/0df41a90-466f-4d5b-a520-2e10563368a4)
